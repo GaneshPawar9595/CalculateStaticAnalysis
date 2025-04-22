@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateStaticAnalysis", "ConsoleApp1\CalculateStaticAnalysis.csproj", "{EF7AC439-E060-4166-B7B4-90302FBA8BF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF7AC439-E060-4166-B7B4-90302FBA8BF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF7AC439-E060-4166-B7B4-90302FBA8BF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF7AC439-E060-4166-B7B4-90302FBA8BF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF7AC439-E060-4166-B7B4-90302FBA8BF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {968E944C-4B3C-434F-9F0C-E6A81FA7FF3E}
+	EndGlobalSection
+EndGlobal
